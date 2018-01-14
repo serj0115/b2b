@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="205px" height="43px" viewBox="0 0 205 43" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>logo_mobile</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Extra-Small-Devices-green-parkomatica-b2b-(-&lt;-768px-)-" transform="translate(-56.000000, -10.000000)">
+            <g id="1-part">
+                <g id="logo-part" transform="translate(56.000000, 10.000000)">
+                    <g id="logo" transform="translate(2.000000, 2.000000)">
+                        <g id="Group-4" transform="translate(10.022612, 9.377482)">
+                            <path d="M4.51975703,9.81242021 C5.3523609,12.2488114 7.63922251,13.9985055 10.3299147,13.9985055 C13.7243757,13.9985055 16.4761301,11.2138225 16.4761301,7.77874194 C16.4761301,4.34366136 13.7243757,1.55897835 10.3299147,1.55897835 C8.60553751,1.55897835 7.04701807,2.27759724 5.93084077,3.43504204" id="Oval-5" stroke="#34363C" stroke-width="3.37479646" stroke-linecap="round"></path>
+                            <path d="M5.30326047,2.29072949 L7.74065112,6.36581424 L7.74065112,6.36581424 C7.99479957,6.79072621 7.85636838,7.34121346 7.4314564,7.59536191 C7.29237384,7.67855001 7.13334232,7.72248077 6.97127993,7.72248077 L2.09649862,7.72248077 L2.09649862,7.72248077 C1.60138084,7.72248077 1.20000857,7.3211085 1.20000857,6.82599072 C1.20000857,6.66392832 1.24393934,6.50489681 1.32712744,6.36581424 L3.76451809,2.29072949 L3.76451809,2.29072949 C4.01866654,1.86581752 4.56915378,1.72738633 4.99406575,1.98153478 C5.12107132,2.05749938 5.22729586,2.16372392 5.30326047,2.29072949 Z" id="Triangle" fill="#34363C" transform="translate(4.533958, 4.788380) rotate(-135.000000) translate(-4.533958, -4.788380) "></path>
+                            <path d="M4.21849557,10.0121593 L4.21849557,20.614454" id="Path-2" stroke="#34363C" stroke-width="3.37479646" stroke-linecap="round"></path>
+                        </g>
+                        <ellipse id="Oval" stroke="#34363C" stroke-width="3.37479646" cx="19.0834154" cy="19.666663" rx="19.0834154" ry="19.666663"></ellipse>
+                    </g>
+                    <g id="text-part" transform="translate(47.559752, 9.593292)" font-size="19.0627918" font-family="Intro, Intro " letter-spacing="0.388647859" fill="#34363C" font-weight="normal">
+                        <text id="ПАРКОМАТИКА">
+                            <tspan x="0" y="18">ПАРКОМАТИКА</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

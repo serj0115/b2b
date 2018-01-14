@@ -1,0 +1,107 @@
+/*	--------------------------------------------------
+	Reveal Modals
+	-------------------------------------------------- */
+		
+	.reveal-modal-bg { 
+		position: fixed; 
+		height: 100%;
+		width: 100%;
+		background: #000;
+		background: rgba(0,0,0,.8);
+		z-index: 100;
+		display: none;
+		top: 0;
+		left: 0; 
+		}
+	
+	.reveal-modal {
+		visibility: hidden;
+		top: 250px; 
+		position: absolute;
+		z-index: 101;
+		-moz-border-radius: 5px;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+		-moz-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		-webkit-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		-box-shadow: 0 0 10px rgba(0,0,0,.4);
+		}
+	#input2{
+	background: url(../images/input-tel2.png)no-repeat;
+	width: 264px;
+	margin-left: 5px;
+	}	
+ .window input[type="text"]{
+	width: 269px;
+	height: 55px;
+	padding-top: 3px;
+	padding-left: 55px;
+	background: url(../images/input-name2.png)no-repeat;
+	background-position: center;
+    font-family: 'ultimapro';
+    font-size: 18.59px;
+    margin-top: 10px;
+    border: 0;
+    outline: none;
+    float: left;
+	margin-left: 0px;
+}
+.window input[type="submit"]{
+	width: 316px;
+	height: 54px;
+	background: url(../images/submit1r.png)no-repeat;
+	border-radius: 5px;
+	color: #fff;
+	background-color: transparent;
+	text-transform: uppercase;
+	font-family: 'dinroundpro-bold';
+	font-size: 18px;
+	margin: 11px 0px 0 5px;
+	float: left;
+}
+	.reveal-modal.small 		{ width: 200px; margin-left: -140px;}
+	.reveal-modal.medium 		{ width: 400px; margin-left: -240px;}
+	.reveal-modal.large 		{ width: 600px; margin-left: -340px;}
+	.reveal-modal.xlarge 		{ width: 800px; margin-left: -440px;}
+	
+	.reveal-modal .close-reveal-modal {
+		font-size: 22px;
+		line-height: .5;
+		position: absolute;
+		top: 8px;
+		right: 11px;
+		color: #aaa;
+		text-shadow: 0 -1px 1px rbga(0,0,0,.6);
+		font-weight: bold;
+		cursor: pointer;
+		} 
+			.reveal-modal h1{
+    			font-family: 'ultimaprobold';
+    			color: #fff;
+    			text-align: center;
+    			text-transform: uppercase;
+    			font-size: 30px;
+			}
+			 #sub2{
+				margin-left: 5px;
+				margin-top: 11px;
+			}
+	/*
+		
+	NOTES
+	
+	Close button entity is &#215;
+	
+	Example markup
+	
+	<div id="myModal" class="reveal-modal">
+		<h2>Awesome. I have it.</h2>
+		<p class="lead">Your couch.  I it's mine.</p>
+		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. In ultrices aliquet placerat. Duis pulvinar orci et nisi euismod vitae tempus lorem consectetur. Duis at magna quis turpis mattis venenatis eget id diam. </p>
+		<a class="close-reveal-modal">&#215;</a>
+	</div>
+	
+	*/
+.bgb{
+	float: right !important;
+}

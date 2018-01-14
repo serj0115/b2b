@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="16px" viewBox="0 0 16 16" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 46.2 (44496) - http://www.bohemiancoding.com/sketch -->
+    <title>error_icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="заказ-звонка-заполнение-+-button-pressed" transform="translate(-838.000000, -329.000000)">
+            <g id="форма-взонка" transform="translate(480.000000, 160.000000)">
+                <g id="content" transform="translate(60.000000, 42.000000)">
+                    <g id="form" transform="translate(28.000000, 86.000000)">
+                        <g id="name">
+                            <g id="First-Name" transform="translate(0.000000, 27.000000)">
+                                <g id="attention" transform="translate(270.000000, 14.000000)">
+                                    <circle id="Oval-2" fill="#FE4343" cx="8" cy="8" r="8"></circle>
+                                    <path d="M8.80979592,9.80897959 L7.21632653,9.80897959 L6.88326531,3.42857143 L9.14285714,3.42857143 L8.80979592,9.80897959 Z M6.85714286,12.042449 C6.85714286,11.6767329 6.95510106,11.400273 7.15102041,11.2130612 C7.34693976,11.0258494 7.63210697,10.9322449 8.00653061,10.9322449 C8.36789296,10.9322449 8.64761806,11.0280263 8.84571429,11.2195918 C9.04381051,11.4111574 9.14285714,11.6854404 9.14285714,12.042449 C9.14285714,12.3863963 9.04272209,12.657414 8.84244898,12.8555102 C8.64217587,13.0536064 8.3635392,13.1526531 8.00653061,13.1526531 C7.6408145,13.1526531 7.35782413,13.0557833 7.15755102,12.8620408 C6.95727791,12.6682984 6.85714286,12.3951038 6.85714286,12.042449 Z" id="!" fill="#FFFFFF"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
