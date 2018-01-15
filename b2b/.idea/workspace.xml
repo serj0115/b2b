@@ -13,37 +13,13 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parking-landing-b2b/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="267">
+            <state relative-caret-position="4709">
               <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
-              <folding>
-                <marker date="1515940325543" expanded="true" signature="20822:21131" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="20994:21104" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21234:22164" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21261:22150" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21296:22135" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21355:21429" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21493:21882" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21638:21859" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="21936:22035" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22224:24349" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22258:22319" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22395:24338" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22666:22936" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22863:22917" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="22977:23251" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23182:23232" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23292:23549" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23481:23530" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23604:23797" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23835:23948" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="23992:24322" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="24090:24167" ph="..." />
-                <marker date="1515940325543" expanded="true" signature="24209:24303" ph="..." />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -51,8 +27,8 @@
       <file leaf-file-name="scripts.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/scripts.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="437">
-              <caret line="87" column="59" lean-forward="true" selection-start-line="87" selection-start-column="59" selection-end-line="87" selection-end-column="59" />
+            <state relative-caret-position="1479">
+              <caret line="87" column="59" lean-forward="false" selection-start-line="87" selection-start-column="59" selection-end-line="87" selection-end-column="59" />
               <folding />
             </state>
           </provider>
@@ -81,7 +57,7 @@
       <file leaf-file-name="styles.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/parking-landing-b2b/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="33677">
               <caret line="1981" column="17" lean-forward="false" selection-start-line="1981" selection-start-column="17" selection-end-line="1981" selection-end-column="17" />
               <folding />
             </state>
@@ -185,31 +161,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1515929555609</updated>
-      <workItem from="1515929556902" duration="7547000" />
+      <workItem from="1515929556902" duration="8215000" />
+      <workItem from="1516003731062" duration="126000" />
+      <workItem from="1516004425286" duration="45000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7547000" />
+    <option name="totallyTimeSpent" value="8386000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="1010" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960254" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32914287" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -226,39 +204,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/parking-landing-b2b/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="267">
+        <state relative-caret-position="4709">
           <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
-          <folding>
-            <marker date="1515940325543" expanded="true" signature="20822:21131" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="20994:21104" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21234:22164" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21261:22150" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21296:22135" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21355:21429" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21493:21882" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21638:21859" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="21936:22035" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22224:24349" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22258:22319" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22395:24338" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22666:22936" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22863:22917" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="22977:23251" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23182:23232" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23292:23549" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23481:23530" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23604:23797" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23835:23948" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="23992:24322" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="24090:24167" ph="..." />
-            <marker date="1515940325543" expanded="true" signature="24209:24303" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/scripts.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
+        <state relative-caret-position="1479">
           <caret line="87" column="59" lean-forward="true" selection-start-line="87" selection-start-column="59" selection-end-line="87" selection-end-column="59" />
           <folding />
         </state>
@@ -274,7 +228,87 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/parking-landing-b2b/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="33677">
+          <caret line="1981" column="17" lean-forward="false" selection-start-line="1981" selection-start-column="17" selection-end-line="1981" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/mail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="156" lean-forward="false" selection-start-line="81" selection-start-column="156" selection-end-line="81" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="59" lean-forward="true" selection-start-line="87" selection-start-column="59" selection-end-line="87" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/mail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33677">
+          <caret line="1981" column="17" lean-forward="false" selection-start-line="1981" selection-start-column="17" selection-end-line="1981" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/mail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1377">
+          <caret line="81" column="156" lean-forward="false" selection-start-line="81" selection-start-column="156" selection-end-line="81" selection-end-column="156" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4709">
+          <caret line="277" column="55" lean-forward="false" selection-start-line="277" selection-start-column="55" selection-end-line="277" selection-end-column="55" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/js/scripts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1479">
+          <caret line="87" column="59" lean-forward="false" selection-start-line="87" selection-start-column="59" selection-end-line="87" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../js/mail.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="152" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/parking-landing-b2b/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="33677">
           <caret line="1981" column="17" lean-forward="false" selection-start-line="1981" selection-start-column="17" selection-end-line="1981" selection-end-column="17" />
           <folding />
         </state>
